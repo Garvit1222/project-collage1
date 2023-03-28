@@ -1,0 +1,66 @@
+body
+{
+    background-color: lightgrey ;
+}
+
+#footer
+{
+    position: fixed;
+    background-color: azure;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+#camera
+{
+    border: 2px solid red;
+    width: 400px;
+    height: 350px;
+}
+
+#image1
+{
+    height: 250px;
+    width: 400px ;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#image1:hover
+{
+    border-radius: 50px;
+}
+
+#image2
+{
+    height: 250px;
+    width: 400px ;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#image2:hover
+{
+    border-radius: 50px;
+}
+
+#image3
+{
+    height: 250px;
+    width: 400px ;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#image3:hover
+{
+    border-radius: 50px;
+}
